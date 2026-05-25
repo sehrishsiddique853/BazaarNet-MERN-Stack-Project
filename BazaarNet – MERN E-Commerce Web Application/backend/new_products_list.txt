@@ -1,0 +1,901 @@
+
+    {
+      title: "Wireless Headphones",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/01/AirPods.jpg",
+      price: 99.99,
+      rating: 4.5,
+      category: "electronics",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Smartphone Case",
+      image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Smartphone_case_cover_white.jpg",
+      price: 19.99,
+      rating: 4.0,
+      category: "electronics",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Bluetooth Speaker",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_(DSCF2653).jpg",
+      price: 49.99,
+      rating: 4.2,
+      category: "electronics",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Cotton T-Shirt",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/T-SHIRTS.jpg",
+      price: 15.99,
+      rating: 4.3,
+      category: "fashion",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Denim Jeans",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jeans_for_men.jpg",
+      price: 39.99,
+      rating: 4.1,
+      category: "fashion",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Running Shoes",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 79.99,
+      rating: 4.7,
+      category: "fashion",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Garden Hose",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Garden_hose.jpg",
+      price: 24.99,
+      rating: 4.0,
+      category: "home-garden",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Throw Pillow",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 12.99,
+      rating: 3.8,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Yoga Mat",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg",
+      price: 29.99,
+      rating: 4.4,
+      category: "sports-outdoors",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Camping Tent",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/CampingTent1.jpg",
+      price: 89.99,
+      rating: 4.6,
+      category: "sports-outdoors",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Face Moisturizer",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 18.99,
+      rating: 4.2,
+      category: "beauty-personal-care",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Shampoo Bottle",
+      image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Green_shampoo_bottle.jpg",
+      price: 9.99,
+      rating: 3.9,
+      category: "beauty-personal-care",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Bestseller Novel",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 14.99,
+      rating: 4.8,
+      category: "books",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Cookbook",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cook_books_in_library.jpg",
+      price: 19.99,
+      rating: 4.5,
+      category: "books",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Building Blocks",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Toy_blocks_-_Snap_2532.JPG",
+      price: 34.99,
+      rating: 4.7,
+      category: "toys-games",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Board Game",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Board_game_pieces.jpg",
+      price: 24.99,
+      rating: 4.3,
+      category: "toys-games",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Car Air Freshener",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Little_Trees_car_freshener_at_day.jpg",
+      price: 4.99,
+      rating: 3.5,
+      category: "automotive",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Tire Pressure Gauge",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Porsche_Tire_Pressure_Gauge_(9207945919).jpg",
+      price: 12.99,
+      rating: 4.0,
+      category: "automotive",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Vitamins Supplement",
+      image: "https://images.pexels.com/photos/13779107/pexels-photo-13779107.jpeg?cs=srgb",
+      price: 22.99,
+      rating: 4.1,
+      category: "health-household",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Laundry Detergent",
+      image: "https://images.pexels.com/photos/10566515/pexels-photo-10566515.jpeg?cs=srgb",
+      price: 8.99,
+      rating: 4.2,
+      category: "health-household",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Organic Apples",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Honeycrisp-Apple.jpg",
+      price: 3.99,
+      rating: 4.4,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Coffee Beans",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coffee-Beans.jpg",
+      price: 11.99,
+      rating: 4.6,
+      category: "grocery",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Pasta Pack",
+      image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Pasta_Rummo_Fusilli_No_48.jpg",
+      price: 2.49,
+      rating: 3.7,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Chocolate Bar",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dark_chocolate_bar.jpg",
+      price: 1.99,
+      rating: 4.8,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Laptop Computer",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Laptop_on_a_neat_desk_%28Unsplash%29.jpg",
+      price: 65.75,
+      rating: 3.1,
+      category: "electronics",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Smartwatch",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/01/AirPods.jpg",
+      price: 28.26,
+      rating: 3.3,
+      category: "electronics",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Tablet PC",
+      image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Smartphone_case_cover_white.jpg",
+      price: 69.29,
+      rating: 4.8,
+      category: "electronics",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Digital Camera",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_(DSCF2653).jpg",
+      price: 61.1,
+      rating: 3.1,
+      category: "electronics",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Smart TV",
+      image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Smartphone_case_cover_white.jpg",
+      price: 25.77,
+      rating: 4.0,
+      category: "electronics",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Gaming Controller",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/01/AirPods.jpg",
+      price: 58.32,
+      rating: 4.4,
+      category: "electronics",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Wireless Mouse",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/67/JBL_Flip_3_bluetooth_speaker_(DSCF2653).jpg",
+      price: 56.77,
+      rating: 3.4,
+      category: "electronics",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Leather Jacket",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jeans_for_men.jpg",
+      price: 31.43,
+      rating: 4.7,
+      category: "fashion",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Summer Dress",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/T-SHIRTS.jpg",
+      price: 71.32,
+      rating: 3.7,
+      category: "fashion",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Sunglasses",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/T-SHIRTS.jpg",
+      price: 25.45,
+      rating: 4.5,
+      category: "fashion",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Handbag",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/T-SHIRTS.jpg",
+      price: 13.81,
+      rating: 3.2,
+      category: "fashion",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Baseball Cap",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 62.35,
+      rating: 4.6,
+      category: "fashion",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Winter Scarf",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 48.65,
+      rating: 3.2,
+      category: "fashion",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Wrist Watch",
+      image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/T-SHIRTS.jpg",
+      price: 12.49,
+      rating: 3.6,
+      category: "fashion",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Decorative Vase",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 63.76,
+      rating: 4.7,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Wall Clock",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Garden_hose.jpg",
+      price: 23.27,
+      rating: 3.1,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Table Lamp",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 26.65,
+      rating: 3.6,
+      category: "home-garden",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Area Rug",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Garden_hose.jpg",
+      price: 86.26,
+      rating: 4.7,
+      category: "home-garden",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Picture Frame",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 31.41,
+      rating: 4.3,
+      category: "home-garden",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Candle Holder",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 20.45,
+      rating: 3.7,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Indoor Plant Pot",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Garden_hose.jpg",
+      price: 30.36,
+      rating: 4.9,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Bed Sheet Set",
+      image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Throw_Pillows_(Scatter_Cushions).jpg",
+      price: 11.78,
+      rating: 4.3,
+      category: "home-garden",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Football",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 74.27,
+      rating: 3.3,
+      category: "sports-outdoors",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Basketball",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 30.65,
+      rating: 4.9,
+      category: "sports-outdoors",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Hiking Boots",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 57.91,
+      rating: 4.4,
+      category: "sports-outdoors",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Backpack",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/CampingTent1.jpg",
+      price: 26.76,
+      rating: 3.1,
+      category: "sports-outdoors",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Bicycle Helmet",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 43.11,
+      rating: 3.1,
+      category: "sports-outdoors",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Water Bottle",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg",
+      price: 88.25,
+      rating: 3.6,
+      category: "sports-outdoors",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Jump Rope",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yoga_mat.jpg",
+      price: 52.43,
+      rating: 4.8,
+      category: "sports-outdoors",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Fitness Tracker",
+      image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg",
+      price: 48.59,
+      rating: 3.5,
+      category: "sports-outdoors",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Perfume Bottle",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 75.77,
+      rating: 4.1,
+      category: "beauty-personal-care",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Lipstick",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 60.54,
+      rating: 4.8,
+      category: "beauty-personal-care",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Mascara",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 39.39,
+      rating: 5.0,
+      category: "beauty-personal-care",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Hairbrush",
+      image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Green_shampoo_bottle.jpg",
+      price: 53.4,
+      rating: 3.2,
+      category: "beauty-personal-care",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Toothpaste",
+      image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Green_shampoo_bottle.jpg",
+      price: 86.8,
+      rating: 3.3,
+      category: "beauty-personal-care",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Hand Cream",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 80.25,
+      rating: 3.8,
+      category: "beauty-personal-care",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Face Wash",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Men's_Skin_Care-_Men's_Botanics_Intensive_Face_Moisturiser.jpg",
+      price: 41.55,
+      rating: 4.2,
+      category: "beauty-personal-care",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Body Lotion",
+      image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Green_shampoo_bottle.jpg",
+      price: 55.27,
+      rating: 4.9,
+      category: "beauty-personal-care",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Science Fiction Novel",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 69.63,
+      rating: 3.2,
+      category: "books",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Historical Biography",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cook_books_in_library.jpg",
+      price: 76.33,
+      rating: 4.5,
+      category: "books",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Travel Guide",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 15.6,
+      rating: 3.9,
+      category: "books",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Children's Picture Book",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 5.31,
+      rating: 4.4,
+      category: "books",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Mystery Thriller",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cook_books_in_library.jpg",
+      price: 30.02,
+      rating: 4.0,
+      category: "books",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Poetry Anthology",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 53.23,
+      rating: 3.2,
+      category: "books",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Self-Help Book",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cook_books_in_library.jpg",
+      price: 33.35,
+      rating: 4.3,
+      category: "books",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Graphic Novel",
+      image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stack_of_books2.jpg",
+      price: 23.9,
+      rating: 3.7,
+      category: "books",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "LEGO Building Set",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Toy_blocks_-_Snap_2532.JPG",
+      price: 56.24,
+      rating: 4.6,
+      category: "toys-games",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Jigsaw Puzzle",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Toy_blocks_-_Snap_2532.JPG",
+      price: 92.26,
+      rating: 4.2,
+      category: "toys-games",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Action Figure",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Toy_blocks_-_Snap_2532.JPG",
+      price: 6.85,
+      rating: 4.9,
+      category: "toys-games",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Doll",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Board_game_pieces.jpg",
+      price: 27.75,
+      rating: 3.5,
+      category: "toys-games",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Toy Car",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Board_game_pieces.jpg",
+      price: 94.96,
+      rating: 3.2,
+      category: "toys-games",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Plush Teddy Bear",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Board_game_pieces.jpg",
+      price: 82.52,
+      rating: 5.0,
+      category: "toys-games",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "RC Helicopter",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Toy_blocks_-_Snap_2532.JPG",
+      price: 77.75,
+      rating: 3.3,
+      category: "toys-games",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Chess Set",
+      image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Board_game_pieces.jpg",
+      price: 94.95,
+      rating: 3.3,
+      category: "toys-games",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Car Battery",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Porsche_Tire_Pressure_Gauge_(9207945919).jpg",
+      price: 87.88,
+      rating: 3.8,
+      category: "automotive",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Oil Filter",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Little_Trees_car_freshener_at_day.jpg",
+      price: 93.25,
+      rating: 4.5,
+      category: "automotive",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Wiper Blades",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Porsche_Tire_Pressure_Gauge_(9207945919).jpg",
+      price: 24.11,
+      rating: 3.6,
+      category: "automotive",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Car Wax",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Little_Trees_car_freshener_at_day.jpg",
+      price: 66.74,
+      rating: 3.9,
+      category: "automotive",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "GPS Navigator",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Little_Trees_car_freshener_at_day.jpg",
+      price: 47.89,
+      rating: 3.5,
+      category: "automotive",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Car Seat Cover",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Porsche_Tire_Pressure_Gauge_(9207945919).jpg",
+      price: 37.12,
+      rating: 4.2,
+      category: "automotive",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Steering Wheel Cover",
+      image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Little_Trees_car_freshener_at_day.jpg",
+      price: 60.9,
+      rating: 3.0,
+      category: "automotive",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Jump Starter",
+      image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Porsche_Tire_Pressure_Gauge_(9207945919).jpg",
+      price: 64.95,
+      rating: 3.5,
+      category: "automotive",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Hand Sanitizer",
+      image: "https://images.pexels.com/photos/13779107/pexels-photo-13779107.jpeg?cs=srgb",
+      price: 86.67,
+      rating: 3.1,
+      category: "health-household",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Face Masks (Pack)",
+      image: "https://images.pexels.com/photos/10566515/pexels-photo-10566515.jpeg?cs=srgb",
+      price: 31.46,
+      rating: 4.0,
+      category: "health-household",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Toilet Paper (Pack)",
+      image: "https://images.pexels.com/photos/10566515/pexels-photo-10566515.jpeg?cs=srgb",
+      price: 17.57,
+      rating: 4.9,
+      category: "health-household",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Air Purifier",
+      image: "https://images.pexels.com/photos/13779107/pexels-photo-13779107.jpeg?cs=srgb",
+      price: 59.74,
+      rating: 3.5,
+      category: "health-household",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Soap Dispenser",
+      image: "https://images.pexels.com/photos/13779107/pexels-photo-13779107.jpeg?cs=srgb",
+      price: 81.71,
+      rating: 3.4,
+      category: "health-household",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Toothbrush Set",
+      image: "https://images.pexels.com/photos/10566515/pexels-photo-10566515.jpeg?cs=srgb",
+      price: 67.6,
+      rating: 3.7,
+      category: "health-household",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Dishwashing Liquid",
+      image: "https://images.pexels.com/photos/10566515/pexels-photo-10566515.jpeg?cs=srgb",
+      price: 49.37,
+      rating: 4.5,
+      category: "health-household",
+      discount: 30,
+      featuredReason: "30% off sale"
+    },
+    {
+      title: "Floor Cleaner",
+      image: "https://images.pexels.com/photos/13779107/pexels-photo-13779107.jpeg?cs=srgb",
+      price: 67.08,
+      rating: 4.3,
+      category: "health-household",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Bananas",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Honeycrisp-Apple.jpg",
+      price: 43.25,
+      rating: 3.7,
+      category: "grocery",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Loaf of Bread",
+      image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Pasta_Rummo_Fusilli_No_48.jpg",
+      price: 28.62,
+      rating: 3.4,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Milk Carton",
+      image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Honeycrisp-Apple.jpg",
+      price: 18.32,
+      rating: 3.4,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Eggs (Dozen)",
+      image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coffee-Beans.jpg",
+      price: 28.73,
+      rating: 4.8,
+      category: "grocery",
+      discount: 20,
+      featuredReason: "20% off sale"
+    },
+    {
+      title: "Rice Bag",
+      image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Pasta_Rummo_Fusilli_No_48.jpg",
+      price: 81.76,
+      rating: 4.7,
+      category: "grocery",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
+    {
+      title: "Flour Bag",
+      image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Pasta_Rummo_Fusilli_No_48.jpg",
+      price: 9.81,
+      rating: 5.0,
+      category: "grocery",
+      discount: 10,
+      featuredReason: "10% off sale"
+    },
